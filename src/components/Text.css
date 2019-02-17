@@ -1,0 +1,15 @@
+.Heading-Font{
+    color: lightskyblue;
+    font-size: 55px;
+}
+
+.Align{
+    text-align: center;
+}
+.Para-Font{
+    color: snow;
+    font-size: 20px;
+}
+.InputBox{
+    width: 20%;
+}
