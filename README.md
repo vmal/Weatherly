@@ -1,5 +1,7 @@
 ## Weatherly UI
 
+[![Build Status](https://travis-ci.com/vmal/Weatherly.svg?branch=master)](https://travis-ci.com/vmal/Weatherly)
+
 A simple web UI built with React JS and OpenWeather API that 
 lets you get the current forecast of a city through a search bar.
 
